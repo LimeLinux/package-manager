@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Package Manager
+GenericName=Add or Remove Software
+Comment=PiSi Package Manager Graphical User Interface
+Icon=application-x-pisi
+Type=Application
+Exec=package-manager --show-mainwindow
+Categories=Qt;KDE;System;

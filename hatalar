@@ -1,0 +1,39 @@
+Hatalar 
+_______________________________
+
+-> ayarlar kısmında hata var yeniden başlatınca seçilen ayar aktif oluyor
+-> ikinci ve daha sonraki aramalarda bir önceki arama sonuçları üzerinden arama yapılıyor
+-> derecelendirme yapılamıyor
+=========================================================================
+
+
+
+Denememesi Gereken Kısımlar
+_______________________________
+
+-> proxy ayarları 
+
+
+
+=========================================================================
+
+
+
+Geçici Çözümler
+_______________________________
+
+-> paket seçimine gecici çözüm bulundu 
+    (packageList ile seçim olayı arasındaki iletişimde sorun var!)
+
+=========================================================================
+
+
+
+Neler Yapılabilir?
+_______________________________
+
+-> güncelleme yapılabiliyor
+-> depo eklenip kaldırılabiliyor
+-> arama yapılabiliyor
+-> geçici çözümle paket seçimi yaılabiliyor
+-> paket yüklenip kaldırılabiliyor

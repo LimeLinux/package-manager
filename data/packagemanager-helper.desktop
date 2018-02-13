@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Package Manager
+GenericName=Add/Remove/Update Packages
+Icon=application-x-pisi
+Type=Application
+StartupNotify=False
+MimeType=application/x-pisi;
+Exec=pm-install %U
+NoDisplay=true

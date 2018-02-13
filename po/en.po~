@@ -1,0 +1,898 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: PiSiLinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-30 01:42+0300\n"
+"PO-Revision-Date: 2013-03-24 23:56+0000\n"
+"Last-Translator: circass <erdincgultekin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/package-manager.desktop.in.h:1
+#: data/packagemanager-helper.desktop.in.h:1
+msgid "Package Manager"
+msgstr "Package Manager"
+
+#: data/package-manager.desktop.in.h:2
+msgid "Add or Remove Software"
+msgstr "Add or Remove Software"
+
+#: data/package-manager.desktop.in.h:3
+msgid "PiSi Package Manager Graphical User Interface"
+msgstr "PiSi Package Manager Graphical User Interface"
+
+#: data/packagemanager-helper.desktop.in.h:2
+msgid "Add/Remove/Update Packages"
+msgstr "Add/Remove/Update Packages"
+
+#~ msgid "(c) 2009-2010 TUBITAK/UEKAE"
+#~ msgstr "(c) 2009-2010 TUBITAK/UEKAE"
+
+#~ msgid "Gökmen Göksel"
+#~ msgstr "Gökmen Göksel"
+
+#~ msgid "Developer"
+#~ msgstr "Developer"
+
+#~ msgid "Faik Uygur"
+#~ msgstr "Faik Uygur"
+
+#~ msgid "First Author"
+#~ msgstr "First Author"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Your names"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "Your emails"
+
+#~ msgid "Hide summary screen"
+#~ msgstr "Hide summary screen"
+
+#~ msgid "Show Updates"
+#~ msgstr "Show Updates"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignore"
+
+#~ msgid "Search Bar"
+#~ msgstr "Search Bar"
+
+#~ msgid "Type to filter files"
+#~ msgstr "Type to filter files"
+
+#, fuzzy
+#~ msgid "WebDialog"
+#~ msgstr "Basket"
+
+#, fuzzy
+#~ msgid "SettingsDialog"
+#~ msgstr "Settings"
+
+#, fuzzy
+#~ msgid "RepoDialog"
+#~ msgstr "Basket"
+
+#, fuzzy
+#~ msgid "PmWindow"
+#~ msgstr "Show main window"
+
+#, fuzzy
+#~ msgid "MainWindow"
+#~ msgstr "Show main window"
+
+#, fuzzy
+#~ msgid "MainWidget"
+#~ msgstr "Show main window"
+
+#, fuzzy
+#~ msgid "BasketDialog"
+#~ msgstr "Basket"
+
+#~ msgid "Package Files"
+#~ msgstr "Package Files"
+
+#, fuzzy
+#~ msgctxt "WebDialog"
+#~ msgid "Package Details"
+#~ msgstr "Package Details"
+
+#, fuzzy
+#~ msgctxt "WebDialog"
+#~ msgid ""
+#~ "AppInfo Server is not reachable\n"
+#~ "Please check your network connection"
+#~ msgstr ""
+#~ "AppInfo Server is not reachable\n"
+#~ "Please check your network connection"
+
+#, fuzzy
+#~ msgctxt "WebDialog"
+#~ msgid "Package Files"
+#~ msgstr "Package Files"
+
+#, fuzzy
+#~ msgctxt "WebDialog"
+#~ msgid "Basket"
+#~ msgstr "Show Basket"
+
+#, fuzzy
+#~ msgctxt "SummaryDialog"
+#~ msgid "&Ok"
+#~ msgstr "&Ok"
+
+#, fuzzy
+#~ msgctxt "SummaryDialog"
+#~ msgid "You can start the new installed application by double-clicking on the list below or later from the applications menu."
+#~ msgstr "You can start the new installed application by double-clicking on the list below or later from the applications menu."
+
+#, fuzzy
+#~ msgctxt "SummaryDialog"
+#~ msgid "Operation Summary"
+#~ msgstr "Operation Summary"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Cancel"
+#~ msgstr "&Cancel"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&OK"
+#~ msgstr "&OK"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Help"
+#~ msgstr "&Help"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Proxy"
+#~ msgstr "&Proxy"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "<a href=#>Use this proxy server for all protocols</a>"
+#~ msgstr "<a href=#>Use this proxy server for all protocols</a>"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">There is proxy settings available in KDE, you can click <a href=\"#\"><span style=\" text-decoration: underline; color:#1b7bae;\">here</span></a> to get these settings</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">There is proxy settings available in KDE, you can click <a href=\"#\"><span style=\" text-decoration: underline; color:#1b7bae;\">here</span></a> to get these settings</p></body></html>"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Password:"
+#~ msgstr "Password:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Username:"
+#~ msgstr "Username:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Domain:"
+#~ msgstr "Domain:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "FTP proxy server:"
+#~ msgstr "FTP proxy server:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "HTTPS proxy server:"
+#~ msgstr "HTTPS proxy server:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Port:"
+#~ msgstr "Port:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "HTTP proxy server:"
+#~ msgstr "HTTP proxy server:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Use Proxy"
+#~ msgstr "Use Proxy"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Repositories"
+#~ msgstr "&Repositories"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Move &Down"
+#~ msgstr "Move &Down"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Move &Up"
+#~ msgstr "Move &Up"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Remove Repository"
+#~ msgstr "Remove Repository"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Add New Repository"
+#~ msgstr "&Add New Repository"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Repository Address"
+#~ msgstr "Repository Address"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Repository Name"
+#~ msgstr "Repository Name"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "C&ache"
+#~ msgstr "C&ache"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid " kB/s"
+#~ msgstr " kB/s"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Use bandwidth limit :"
+#~ msgstr "Use bandwidth limit :"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Bandwidth limit"
+#~ msgstr "Bandwidth limit"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "C&lean disk cache now"
+#~ msgstr "C&lean disk cache now"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Clearing the disk cache will remove all downloaded software. This will not delete installed software or affect your system stability."
+#~ msgstr "Clearing the disk cache will remove all downloaded software. This will not delete installed software or affect your system stability."
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Open"
+#~ msgstr "Open"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Select..."
+#~ msgstr "Select..."
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Current cache dir:"
+#~ msgstr "Current cache dir:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid " Mib"
+#~ msgstr " Mib"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Unlimited"
+#~ msgstr "Unlimited"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Maximum cache size:"
+#~ msgstr "Maximum cache size:"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Use hard disk cache for downloaded software"
+#~ msgstr "&Use hard disk cache for downloaded software"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Cache Limit"
+#~ msgstr "Cache Limit"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&General Settings"
+#~ msgstr "&General Settings"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Install updates automatically"
+#~ msgstr "Install updates automatically"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid " min"
+#~ msgstr " min"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Check interval :"
+#~ msgstr "Check interval :"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Enable &periodic update check"
+#~ msgstr "Enable &periodic update check"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Hide system tray if there is no update."
+#~ msgstr "Hide system tray if there is no update."
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Enable system tray icon"
+#~ msgstr "Enable system tray icon"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "System tray icon"
+#~ msgstr "System tray icon"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Show package type tags"
+#~ msgstr "Show package type tags"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Show Component information "
+#~ msgstr "Show Component information "
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "&Show only desktop applications"
+#~ msgstr "&Show only desktop applications"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Package list"
+#~ msgstr "Package list"
+
+#, fuzzy
+#~ msgctxt "SettingsDialog"
+#~ msgid "Package Manager Settings"
+#~ msgstr "Package Manager Settings"
+
+#, fuzzy
+#~ msgctxt "RepoDialog"
+#~ msgid "Repository Address"
+#~ msgstr "Repository Address"
+
+#, fuzzy
+#~ msgctxt "RepoDialog"
+#~ msgid "Repository Name"
+#~ msgstr "Repository Name"
+
+#, fuzzy
+#~ msgctxt "RepoDialog"
+#~ msgid "Name of the repository, e.g <b>pardus-devel</b>"
+#~ msgstr "Name of the repository, e.g <b>pisilinux-devel</b>"
+
+#, fuzzy
+#~ msgctxt "RepoDialog"
+#~ msgid "Add New Repository"
+#~ msgstr "Add New Repository"
+
+#, fuzzy
+#~ msgctxt "ProgressDialog"
+#~ msgid "Alt+C"
+#~ msgstr "Alt+C"
+
+#, fuzzy
+#~ msgctxt "ProgressDialog"
+#~ msgid "Form"
+#~ msgstr "Form"
+
+#, fuzzy
+#~ msgctxt "Preview"
+#~ msgid "Preview"
+#~ msgstr "Preview"
+
+#, fuzzy
+#~ msgctxt "PmWindow"
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#, fuzzy
+#~ msgctxt "PmWindow"
+#~ msgid "Install"
+#~ msgstr "Install"
+
+#, fuzzy
+#~ msgctxt "PmWindow"
+#~ msgid "Package List"
+#~ msgstr "Package List"
+
+#, fuzzy
+#~ msgctxt "PmWindow"
+#~ msgid "Following packages are selected to install. Do you want to install these packages ?"
+#~ msgstr "Following packages are selected to install. Do you want to install these packages ?"
+
+#, fuzzy
+#~ msgctxt "PmWindow"
+#~ msgid "Package Manager Quick Install"
+#~ msgstr "Package Manager Quick Install"
+
+#, fuzzy
+#~ msgctxt "MessageBox"
+#~ msgid "Form"
+#~ msgstr "Form"
+
+#, fuzzy
+#~ msgctxt "MainWindow"
+#~ msgid "Package Manager"
+#~ msgstr "Package Manager"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Install Package(s)"
+#~ msgstr "Install Package(s)"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Check for Updates"
+#~ msgstr "Check for Updates"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Show Basket"
+#~ msgstr "Show Basket"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Package List"
+#~ msgstr "Package List"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Category Panel"
+#~ msgstr "Category Panel"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Update Types"
+#~ msgstr "Update Types"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Type to search..."
+#~ msgstr "Click to search"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#, fuzzy
+#~ msgctxt "MainWidget"
+#~ msgid "Form"
+#~ msgstr "Form"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "<b>2.0 MB</"
+#~ msgstr "<b>2.0 MB</"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Download Size:"
+#~ msgstr "Download Size:"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Install Package(s)"
+#~ msgstr "Install Package(s)"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Clear Basket"
+#~ msgstr "Clear Basket"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "<b>2.2 MB</b>"
+#~ msgstr "<b>2.2 MB</b>"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Total Size:"
+#~ msgstr "Total Size:"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Extra dependencies of the selected package(s) that are also going to be installed:"
+#~ msgstr "Extra dependencies of the selected package(s) that are also going to be installed:"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Selected package(s) for install:"
+#~ msgstr "Selected package(s) for install:"
+
+#, fuzzy
+#~ msgctxt "BasketDialog"
+#~ msgid "Basket"
+#~ msgstr "Show Basket"
+
+#, fuzzy
+#~ msgctxt "ApplicationItem"
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#, fuzzy
+#~ msgctxt "ApplicationItem"
+#~ msgid "Web Tarayıcı"
+#~ msgstr "Web Tarayıcı"
+
+#, fuzzy
+#~ msgctxt "ApplicationItem"
+#~ msgid "Application"
+#~ msgstr "Application"
+
+#, fuzzy
+#~ msgid "There are %1 updates available!"
+#~ msgstr "There are <b>%1</b> updates available!"
+
+#, fuzzy
+#~ msgid "Update All Repositories"
+#~ msgstr "Updating Repository"
+
+#, fuzzy
+#~ msgid "Update %1 repository"
+#~ msgstr "Updating Repository"
+
+#~ msgid "Update"
+#~ msgstr "Update"
+
+#~ msgid ""
+#~ "\n"
+#~ "Remove the conflicting packages from the system?"
+#~ msgstr ""
+#~ "\n"
+#~ "Remove the conflicting packages from the system?"
+
+#~ msgid "%1 conflicts with: [%2]\n"
+#~ msgstr "%1 conflicts with: [%2]\n"
+
+#~ msgid "The following packages conflicts:\n"
+#~ msgstr "The following packages conflicts:\n"
+
+#~ msgid "Conflict Error"
+#~ msgstr "Conflict Error"
+
+#~ msgid "Selected packages [%1] are in conflict with each other. These packages can not be installed together."
+#~ msgstr "Selected packages [%1] are in conflict with each other. These packages can not be installed together."
+
+#~ msgid "in your basket."
+#~ msgstr "in your basket."
+
+#~ msgid "with <b>%1</b> extra dependencies of total <b>%2</b> of size "
+#~ msgstr "with <b>%1</b> extra dependencies of total <b>%2</b> of size "
+
+#~ msgid "with <b>%1</b> reverse dependencies of total <b>%2</b> of size "
+#~ msgstr "with <b>%1</b> reverse dependencies of total <b>%2</b> of size "
+
+#~ msgid "Currently there are <b>%1</b> selected package(s) of total <b>%2</b> of size "
+#~ msgstr "Currently there are <b>%1</b> selected package(s) of total <b>%2</b> of size "
+
+#~ msgid "Extra dependencies of the selected package(s) that are also going to be modified:"
+#~ msgstr "Extra dependencies of the selected package(s) that are also going to be modified:"
+
+#~ msgid "Extra dependencies of the selected package(s) that are also going to be upgraded:"
+#~ msgstr "Extra dependencies of the selected package(s) that are also going to be upgraded:"
+
+#~ msgid "Reverse dependencies of the selected package(s) that are also going to be removed:"
+#~ msgstr "Reverse dependencies of the selected package(s) that are also going to be removed:"
+
+#~ msgid "Extra dependencies of the selected package(s) that are also going to be installed:"
+#~ msgstr "Extra dependencies of the selected package(s) that are also going to be installed:"
+
+#~ msgid "You have selected the following package(s) to modify:"
+#~ msgstr "You have selected the following package(s) to modify:"
+
+#~ msgid "You have selected the following package(s) to upgrade:"
+#~ msgstr "You have selected the following package(s) to upgrade:"
+
+#~ msgid "You have selected the following package(s) to removal:"
+#~ msgstr "You have selected the following package(s) to removal:"
+
+#~ msgid "You have selected the following package(s) to install:"
+#~ msgstr "You have selected the following package(s) to install:"
+
+#~ msgid "%1 package(s) have been modified succesfully."
+#~ msgstr "%1 package(s) have been modified succesfully."
+
+#~ msgid "%1 package(s) have been upgraded succesfully."
+#~ msgstr "%1 package(s) have been upgraded succesfully."
+
+#~ msgid "%1 package(s) have been removed succesfully."
+#~ msgstr "%1 package(s) have been removed succesfully."
+
+#~ msgid "%1 new package(s) have been installed succesfully."
+#~ msgstr "%1 new package(s) have been installed succesfully."
+
+#~ msgid "Select Operation"
+#~ msgstr "Select Operation"
+
+#~ msgid "Upgrade Package(s)"
+#~ msgstr "Upgrade Package(s)"
+
+#~ msgid "Remove Package(s)"
+#~ msgstr "Remove Package(s)"
+
+#~ msgid "Install Package(s)"
+#~ msgstr "Install Package(s)"
+
+#~ msgid "modified"
+#~ msgstr "modified"
+
+#~ msgid "upgraded"
+#~ msgstr "upgraded"
+
+#~ msgid "removed"
+#~ msgstr "removed"
+
+#~ msgid "installed"
+#~ msgstr "installed"
+
+#~ msgid "Updating Repository(s)"
+#~ msgstr "Updating Repository(s)"
+
+#~ msgid "Updating Repository"
+#~ msgstr "Updating Repository"
+
+#~ msgid "Applying Repository Changes"
+#~ msgstr "Applying Repository Changes"
+
+#~ msgid "Upgrading Package(s)"
+#~ msgstr "Upgrading Package(s)"
+
+#~ msgid "Removing Package(s)"
+#~ msgstr "Removing Package(s)"
+
+#~ msgid "Installing Package(s)"
+#~ msgstr "Installing Package(s)"
+
+#~ msgid "<qt>Repository address should end with xml or xml.bz2 or xz suffix.<p>Please try again.</qt>"
+#~ msgstr "<qt>Repository address should end with xml or xml.bz2 or xz suffix.<p>Please try again.</qt>"
+
+#~ msgid "Not a valid repository name"
+#~ msgstr "Not a valid repository name"
+
+#~ msgid "All the cached packages will be deleted. Are you sure? "
+#~ msgstr "All the cached packages will be deleted. Are you sure? "
+
+#~ msgid "Open Directory"
+#~ msgstr "Open Directory"
+
+#~ msgid "<b>Cancelling operation...</b>"
+#~ msgstr "<b>Cancelling operation...</b>"
+
+#~ msgid "Preparing PiSi..."
+#~ msgstr "Preparing PiSi..."
+
+#~ msgid "%1 / %2, %3"
+#~ msgstr "%1 / %2, %3"
+
+#~ msgid "[%1 / %2]"
+#~ msgstr "[%1 / %2]"
+
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgid "Downloading package list of %1"
+#~ msgstr "Downloading package list of %1"
+
+#~ msgid "Operation - %1%"
+#~ msgstr "Operation - %1%"
+
+#~ msgid "<p align='right'>%1 %</p>"
+#~ msgstr "<p align='right'>%1 %</p>"
+
+#~ msgid "Do you want to continue ?"
+#~ msgstr "Do you want to continue ?"
+
+#~ msgid "Another instance of PiSi is running. Only one instance is allowed."
+#~ msgstr "Another instance of PiSi is running. Only one instance is allowed."
+
+#~ msgid "File <b>%s</b> doesn't exists."
+#~ msgstr "File <b>%s</b> doesn't exists."
+
+#~ msgid "Mixing file names and package names not supported yet."
+#~ msgstr "Mixing file names and package names not supported yet."
+
+#~ msgid "Package <b>%s</b> not found in repositories.<br>It may be upgraded or removed from the repository.<br>Please try upgrading repository informations."
+#~ msgstr "Package <b>%s</b> not found in repositories.<br>It may be upgraded or removed from the repository.<br>Please try upgrading repository informations."
+
+#~ msgid "You are not authorized for this operation."
+#~ msgstr "You are not authorized for this operation."
+
+#~ msgid "Authorization Error"
+#~ msgstr "Authorization Error"
+
+#~ msgid "Please check your network connections and try again."
+#~ msgstr "Please check your network connections and try again."
+
+#~ msgid "Network Error"
+#~ msgstr "Network Error"
+
+#~ msgid "%prog packages_to_install"
+#~ msgstr "%prog packages_to_install"
+
+#~ msgid "Select all packages in this group"
+#~ msgstr "Select all packages in this group"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Installed Version:"
+#~ msgstr "Installed Version:"
+
+#~ msgid "Package Size:"
+#~ msgstr "Package Size:"
+
+#~ msgid "Repository:"
+#~ msgstr "Repository:"
+
+#~ msgid "Release:"
+#~ msgstr "Release:"
+
+#~ msgid "Website:"
+#~ msgstr "Website:"
+
+#~ msgid "Description:"
+#~ msgstr "Description:"
+
+#~ msgid "security"
+#~ msgstr "security"
+
+#~ msgid "critical"
+#~ msgstr "critical"
+
+#~ msgid "downloading"
+#~ msgstr "downloading"
+
+#~ msgid "configuring"
+#~ msgstr "configuring"
+
+#~ msgid "extracting"
+#~ msgstr "extracting"
+
+#~ msgid "removing"
+#~ msgstr "removing"
+
+#~ msgid "installing"
+#~ msgstr "installing"
+
+#~ msgid "Currently your basket is empty."
+#~ msgstr "Currently your basket is empty."
+
+#~ msgid "Calculating dependencies..."
+#~ msgstr "Calculating dependencies..."
+
+#, fuzzy
+#~ msgid "Help"
+#~ msgstr "&Help"
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid "Updates"
+#~ msgstr "Updates"
+
+#~ msgid "Installable Packages"
+#~ msgstr "Installable Packages"
+
+#~ msgid "All Packages"
+#~ msgstr "All Packages"
+
+#~ msgid "Critical Updates"
+#~ msgstr "Critical Updates"
+
+#~ msgid "Security Updates"
+#~ msgstr "Security Updates"
+
+#~ msgid "All Updates"
+#~ msgstr "All Updates"
+
+#~ msgid "You must select at least one installed package"
+#~ msgstr "You must select at least one installed package"
+
+#~ msgid "Select packages"
+#~ msgstr "Select packages"
+
+#~ msgid "No results found."
+#~ msgstr "No results found."
+
+#~ msgid "Searching..."
+#~ msgstr "Searching..."
+
+#~ msgid "All packages are up to date"
+#~ msgstr "All packages are up to date"
+
+#~ msgid "Package Manager Help"
+#~ msgstr "Package Manager Help"
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Installed Packages"
+#~ msgstr "Installed Packages"
+
+#~ msgid "Already Installed Packages"
+#~ msgstr "Already Installed Packages"
+
+#~ msgid "Selected packages are already installed.<br>If you continue, the packages will be reinstalled"
+#~ msgstr "Selected packages are already installed.<br>If you continue, the packages will be reinstalled"
+
+#~ msgid "Critical Packages"
+#~ msgstr "Critical Packages"
+
+#~ msgid "Warning"
+#~ msgstr "Warning"
+
+#~ msgid "Selected packages are considered critical for the system. Removing them may cause your system to be unusable."
+#~ msgstr "Selected packages are considered critical for the system. Removing them may cause your system to be unusable."
+
+#~ msgid "Packages Require Service Restart"
+#~ msgstr "Packages Require Service Restart"
+
+#~ msgid "You must restart related system services for the updated package(s) to take effect"
+#~ msgstr "You must restart related system services for the updated package(s) to take effect"
+
+#~ msgid "Packages Require System Restart"
+#~ msgstr "Packages Require System Restart"
+
+#~ msgid "Update Requirements"
+#~ msgstr "Update Requirements"
+
+#~ msgid "You must restart your system for the updates to take effect"
+#~ msgstr "You must restart your system for the updates to take effect"
+
+#~ msgid "Pisi Error"
+#~ msgstr "Pisi Error"
+
+#~ msgid "Do you want to clear all selections ?"
+#~ msgstr "Do you want to clear all selections ?"
+
+#~ msgid "Clear Basket"
+#~ msgstr "Clear Basket"

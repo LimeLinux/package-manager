@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="data">
+    <file>slide_up.svg</file>
+    <file>package-manager.svg</file>
+    <file>tray-count.png</file>
+    <file>package-manager-icon-systemtr.png</file>
+    <file>tray-zero.png</file>
+    <file>wheel.mng</file>
+    <file>pisianime.mng</file>
+    <file>search.svg</file>
+    <file>star_0.svg</file>
+    <file>star_1.svg</file>
+    <file>animated-tray.mng</file>
+  </qresource>
+</RCC>
